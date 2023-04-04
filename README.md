@@ -1,6 +1,6 @@
 # SearchReddit
 
-A Next.js 13 webpage that utilizes openai and google to effectively earch reddit. It scrapes the results and returns the most relevent results
+A Next.js 13 webpage that utilizes openai and google to better search reddit. It scrapes the results and returns the most relevent results
 
 ## Running locally
 
